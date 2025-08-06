@@ -14,7 +14,6 @@ A clean and responsive **Udemy-style course website** built using **pure HTML5 a
 ## 📄 Pages Included
 
 - **Home** – Hero section, course listings, and navigation bar  
-- 
 
 ---
 
